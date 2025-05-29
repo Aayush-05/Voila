@@ -66,8 +66,8 @@ An advanced stock price prediction system that leverages an ensemble of deep lea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stockprediction.git
-cd stockprediction
+git clone https://github.com/Aayush-05/Voila.git
+cd Voila
 ```
 
 2. Install required packages:
