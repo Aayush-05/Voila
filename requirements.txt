@@ -9,7 +9,7 @@ plotly==5.13.1
 streamlit==1.32.0
 textblob==0.17.1
 python-dotenv==0.21.1
-ta==0.10.2
+# ta==0.10.2
 yfinance==0.2.36
 beautifulsoup4==4.12.2
 scipy==1.11.4
