@@ -10,7 +10,7 @@ streamlit==1.32.0
 textblob==0.15.3
 python-dotenv==0.19.0
 ta==0.7.0
-yfinance==0.2.36
+yfinance==0.2.63
 beautifulsoup4>=4.9.3
 # scipy==1.10.1
 optuna==3.5.0
